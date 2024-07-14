@@ -1,7 +1,7 @@
 [![AM GitHub Stats](https://github-readme-stats.zohan.tech/api?username=ansoncloud8&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,fcb590,e46454&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/ansoncloud8)
 
 - 👋 Hi, I’m AM科技
-- 🤖 欢迎来到我的 GitHub 仓库！AM科技 技术分享-满满干货，从0到1实现，从技术分享到落地应用，尽情期待~ 🚀
+- 🤖 欢迎来到我的 GitHub 仓库！AM科技 技术分享-满满干货，从0到1实现，从技术分享到落地应用，尽情期待~ 
 - 🚀 官网：https://am.809098.xyz
 - 👀 Telegram交流群：https://t.me/AM_CLUBS
 - 🌱 YouTube频道：https://youtube.com/@AM_CLUB
