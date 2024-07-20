@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=ansoncloud8&show_icons=false&theme=Default&bg_color=30,fcb590,e46454&title_color=fff&text_color=fff&icon_color=fff" alt="logo" align="right" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ansoncloud8&show_icons=false&theme=Default" alt="logo" align="right" width="50%" />
 👋 Hi, I’m AM科技
 </br>🤖 欢迎来到我的 GitHub 仓库！💞️ 技术分享-满满干货，从0到1实现，从技术分享到落地应用，尽情期待~ 希望你在这里能找到你需要的东西！
 
