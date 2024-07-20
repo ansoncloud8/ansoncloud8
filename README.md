@@ -19,11 +19,11 @@
 
 ✈️ **自用机场推荐** 🛩️
 
-[*红杏加速器：**高速iepl专线,定制极速专线,优惠码：SVIP88,立享5折折扣！有效期截至2024年7月26号** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
+[*红杏加速器：**高速iepl专线机场,定制极速专线,优惠码：SVIP88,立享5折折扣！有效期截至2024年7月26号** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
 
-[*69云机场：**中转高速机场！全流媒体解锁** ](https://am.69yun69.com)
+[*69云机场：**中转高速机场！全流媒体解锁,最低9.9元400G** ](https://am.69yun69.com)
 
-[*云狐VPN：**可配置中转静态住宅IP，还有ChatGPT专线** ](https://yunfox.cc/?code=KPO6IFwh)
+[*云狐VPN：**动态流媒体解锁,可配置中转静态住宅IP，还有ChatGPT专线** ](https://yunfox.cc/?code=KPO6IFwh)
 
 <!---
 ansoncloud8/ansoncloud8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
