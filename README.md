@@ -2,7 +2,7 @@
 👋 Hi, I’m AM科技
 </br>🤖 欢迎来到我的GitHub仓库！技术分享-满满干货，从0到1实现，从技术分享到落地应用,希望你在这里能找到你需要的东西！
 
-- >🚀 [官网教程](https://am.809098.xyz) | 👀 [YouTube频道](https://youtube.com/@AM_CLUB) | 💞️ [Telegram频道](https://t.me/AM_CLUBS)
+- >[官网教程](https://am.809098.xyz) | [YouTube频道](https://youtube.com/@AM_CLUB) | [Telegram频道](https://t.me/AM_CLUBS)
 
 ▶️ **新人[YouTube](https://youtube.com/@AM_CLUB)** 需要您的支持，请务必帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
 </br>🎁 不要只是下载或Fork。请 **follow** 我的GitHub、给我所有项目一个 **Star** 星星（拜托了）！,你的支持是我不断前进的动力！ 💖
