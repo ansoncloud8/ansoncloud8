@@ -18,8 +18,8 @@
 [![Stargazers over time](https://starchart.cc/ansoncloud8/am-tunnel.svg?variant=adaptive)](https://starchart.cc/ansoncloud8/am-tunnel)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ansoncloud8&repo=am-cf-trojan)](https://github.com/ansoncloud8/gam-cf-trojan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ansoncloud8&repo=am-tunnel)](https://github.com/ansoncloud8/gam-tunnel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ansoncloud8&repo=am-cf-trojan)](https://github.com/ansoncloud8/am-cf-trojan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ansoncloud8&repo=am-tunnel)](https://github.com/ansoncloud8/am-tunnel)
 <!---
 ansoncloud8/ansoncloud8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
