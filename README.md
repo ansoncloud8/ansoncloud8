@@ -34,7 +34,7 @@
   
 <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30">**[频道分享](https://youtube.com/@AM_CLUB)**
   
-[免费CF节点](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9CF%E8%8A%82%E7%82%B9/) | [免费服务器](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9%E6%9C%8D%E5%8A%A1%E5%99%A8/) | [免费域名](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/) | [免费VPN](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9VPN/) | [免费IPTV](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9IPTV/)
+[免费CF节点](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9CF%E8%8A%82%E7%82%B9/) | [免费服务器](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9%E6%9C%8D%E5%8A%A1%E5%99%A8/) | [免费域名](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/) | [免费VPN](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9VPN/) | [免费IPTV](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9IPTV/) | [Mac工具分享](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9IPTV/)
 </div> 
 
 <!-- 线 -->
