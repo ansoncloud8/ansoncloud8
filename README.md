@@ -48,7 +48,7 @@
  
 ✈️ **机场推荐** 🛩️
 
-[*红杏加速器：**高速iepl专线机场,定制极速专线，全场5折，最低5元222G，先到先得！！！优惠码：AM科技** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
+[*红杏加速器：**高速iepl专线机场,定制极速专线，全场5折，最低5元222G，先到先得！！！优惠码：** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)**AM科技**
 
 [*69云机场：**中转高速机场！全流媒体解锁，最低9.9元400G** ](https://am.69yun69.com)
 
