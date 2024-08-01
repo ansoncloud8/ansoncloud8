@@ -5,9 +5,7 @@
   </a>
 </h1>
 
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/></div>
-<br>
+
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -53,6 +51,11 @@
 [*69云机场：**中转高速机场！全流媒体解锁，最低9.9元400G** ](https://am.69yun69.com)
 
 [*云狐VPN：**动态流媒体解锁，可配置中转静态住宅IP，还有ChatGPT专线** ](https://yunfox.cc/?code=KPO6IFwh)
+
+<br>
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/></div>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ansoncloud8&show_icons=false&theme=Default" alt="logo" align="right" width="100%" />
 
