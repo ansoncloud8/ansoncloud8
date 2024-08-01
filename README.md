@@ -38,12 +38,6 @@
 <!-- 线 -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
  
-<div align="center">
-✈️ **免费节点获取** 🛩️
-  
-[*进入群发送关键字 订阅 获取*](https://t.me/AM_CLUBS)
- </div> 
- 
 ✈️ **机场推荐** 🛩️
 
 [*红杏加速器：**高速iepl专线机场,定制极速专线，全场5折，最低5元222G，先到先得！！！优惠码：** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)**AM科技**
@@ -52,6 +46,12 @@
 
 [*云狐VPN：**动态流媒体解锁，可配置中转静态住宅IP，还有ChatGPT专线** ](https://yunfox.cc/?code=KPO6IFwh)
 
+<div align="center">
+✈️ **免费节点获取** 🛩️
+  
+[*进入群发送关键字 订阅 获取*](https://t.me/AM_CLUBS)
+ </div> 
+ 
 <br>
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/></div>
