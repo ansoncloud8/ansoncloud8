@@ -12,8 +12,8 @@
   <a href="https://am.809098.xyz"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
   <a href="https://www.youtube.com/@AM_CLUB"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
   <a href="https://t.me/AM_CLUBS"><img src="https://img.shields.io/badge/Telegram--lightgrey?logo=Telegram&style=social"></a>&emsp;
-  <a href="https://www.facebook.com/groups/amclubs"><img src="https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white&link="></a>&emsp;    
-  <a href="https://x.com/AMClubss"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&emsp;                                                    
+  <a href="https://www.facebook.com/groups/amclubs"><img src="https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white&link="></a>&emsp;   
+  <a href="https://x.com/AMClubss"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&emsp;                                                       
   <a href="https://github.com/amclubs"><img src="https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg"></a>&emsp;
  </div> 
 
@@ -42,11 +42,13 @@
  
 ✈️ **机场推荐** 🛩️
 
-【5折优惠码：**AM科技**】[*[红杏加速器]**最低5元222G,高速iepl专线机场,定制极速专线，先到先得！！！** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
+【5折优惠码：**AM科技**】[*[红杏加速器]**最低5元222G,高速iepl专线机场,定制极速专线，直接点击注册,先到先得！！！** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
 
-[*【69云机场】**中转高速机场！全流媒体解锁，最低9.9元400G** ](https://am.69yun69.com)
+[*【69云机场】**中转高速机场！全流媒体解锁，最低9.9元400G，直接点击注册** ](https://am.69yun69.com)
 
-[*【云狐VPN】**动态流媒体解锁，可配置中转静态住宅IP，还有ChatGPT专线** ](https://yunfox.cc/?code=KPO6IFwh)
+[*【最强机场】**高性价比,最低套餐只要1.99元,解锁流媒体、GPT,畅享晚高封,全线路高加密,保护隐私安全，直接点击注册** ](https://zqjc.org/#/register?code=mm8JbfEu))
+
+[*【云狐VPN】**动态流媒体解锁，可配置中转静态住宅IP，还有ChatGPT专线，直接点击注册** ](https://yunfox.cc/?code=KPO6IFwh)
 
 <div align="center">
 ✈️ **免费节点获取** 🛩️
@@ -61,7 +63,18 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ansoncloud8&show_icons=false&theme=Default" alt="logo" align="right" width="100%" />
 
-<!---
-ansoncloud8/ansoncloud8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!--
+**amclubs/amclubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
