@@ -21,7 +21,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎来到我的GitHub仓库！免费节点 | 免费服务器 | 免费域名 | 免费IPTV | Mac和Win工具 | AI人工智能 技术分享到落地应用满满干货！
 
 ▶️ **新人[YouTube](https://youtube.com/@AM_CLUB)** 需要您的支持，请务必订阅我的YouTube频道，帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
-</br>🎁 Fork我的GitHub仓库时，请 **follow** 下我的GitHub、给所有仓库一个 **Star** 星星（拜托了）！你的支持是我不断前进的动力！ 💖
+</br>🎁 Fork我的GitHub仓库时，请 **follow** 下我的[GitHub](https://github.com/amclubs)、给所有仓库一个 **Star** 星星（拜托了）！你的支持是我不断前进的动力！ 💖
 
 <details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
 *我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
@@ -42,9 +42,11 @@
  
 ✈️ **机场推荐** 🛩️
 
-【5折优惠码：**AM科技**】[*[红杏加速器]**最低5元222G,高速iepl专线机场,定制极速专线，直接点击注册,先到先得！！！** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
+【🎁5折优惠码：**AM科技**】[*【红杏加速器】**中转高速机场，最低5元222G,游戏道选（送小火箭下载）直接点击注册,先到先得！！！** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
 
-[*【69云机场】**中转高速机场！全流媒体解锁，最低9.9元400G，直接点击注册** ](https://am.69yun69.com)
+【🎁8折优惠码：**AM888**】[*【极速云】**专线机场,（送小火箭下载）高性价比|全IEPL专线节点|高速无卡顿 直接点击注册** ](https://w1.lypyf.com/#/register?code=MCdAybnR)
+
+【🎁每日签到免费领流量】[*【69云机场】**中转高速机场！全流媒体解锁，最低9.9元400G，（送小火箭下载）直接点击注册** ](https://am.69yun69.com)
 
 <div align="center">
 ✈️ **免费节点获取** 🛩️
