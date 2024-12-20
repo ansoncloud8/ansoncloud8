@@ -16,6 +16,9 @@
   <a href="https://x.com/AMClubss"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&emsp;                                                       
   <a href="https://github.com/amclubs"><img src="https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg"></a>&emsp;
  </div> 
+ <div align="center">
+      ✨✨✨此库不再更新,请迁移访问新的GitHub仓库 <a href="https://github.com/amclubs">amclubs</a>✨✨✨
+ </div> 
 
 <!-- # 🙋 Hi, I’m AM科技  -->
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎来到我的GitHub仓库！免费节点 | 免费服务器 | 免费域名 | 免费IPTV | Mac和Win工具 | AI人工智能 技术分享到落地应用满满干货！
