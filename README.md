@@ -1,6 +1,8 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://am.809098.xyz">
+  <a href="https://amc- 动态打字效果 -->
+<h1 align="center">
+  <a href="https://amclubss.com">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AM科技-技术分享满满干货;console.log(%22AM科技%EF%BC%8C技术分享满满干货%22)">
   </a>
 </h1>
@@ -9,29 +11,32 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://am.809098.xyz"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
-  <a href="https://www.youtube.com/@AM_CLUB"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
-  <a href="https://t.me/AM_CLUBS"><img src="https://img.shields.io/badge/Telegram--lightgrey?logo=Telegram&style=social"></a>&emsp;
-  <a href="https://www.facebook.com/groups/amclubs"><img src="https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white&link="></a>&emsp;   
-  <a href="https://x.com/AMClubss"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&emsp;                                                       
+  <a href="https://amclubss.com"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
+  <a href="https://www.youtube.com/channel/UCaU8zmom0Vi1LvZZw5Y_8NQ?sub_confirmation=1"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
+  <a href="https://t.me/am_clubs"><img src="https://img.shields.io/badge/Telegram--lightgrey?logo=Telegram&style=social"></a>&emsp;
+  <a href="https://www.facebook.com/profile.php?id=61563982690740"><img src="https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white&link="></a>&emsp;   
+  <a href="https://x.com/amclubss"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&emsp;                                                       
   <a href="https://github.com/amclubs"><img src="https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg"></a>&emsp;
- </div> 
- <div align="center">
-      ✨✨✨此库不再更新,请迁移访问新的GitHub仓库 <a href="https://github.com/amclubs">amclubs</a>✨✨✨
  </div> 
 
 <!-- # 🙋 Hi, I’m AM科技  -->
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎来到我的GitHub仓库！免费节点 | 免费服务器 | 免费域名 | 免费IPTV | Mac和Win工具 | AI人工智能 技术分享到落地应用满满干货！
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎来到我的GitHub仓库！免费节点 | 免费服务器 | 免费域名 | 免费IPTV | Mac和Win工具 | AI人工智能 技术分享到落地应用！
 
-▶️ **新人[YouTube](https://youtube.com/@AM_CLUB)** 需要您的支持，请务必订阅我的YouTube频道，帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
+▶️ **新人[YouTube](https://youtube.com/@am_clubs?sub_confirmation=1)** 需要您的支持，请务必订阅我的YouTube频道，帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
 </br>🎁 Fork我的GitHub仓库时，请 **follow** 下我的[GitHub](https://github.com/amclubs)、给所有仓库一个 **Star** 星星（拜托了）！你的支持是我不断前进的动力！ 💖
 
 <details><summary><strong> [点击展开] 赞赏支持 ~🧧</strong></summary>
 *我非常感谢您的赞赏和支持，它们将极大地激励我继续创新，持续产生有价值的工作。*
-  
+
 - **USDT-TRC20:** `TWTxUyay6QJN3K4fs4kvJTT8Zfa2mWTwDD`
-  
+- **TRX-TRC20:** `TWTxUyay6QJN3K4fs4kvJTT8Zfa2mWTwDD`
+
+<div align="center"> 
+  <img src="https://github.com/user-attachments/assets/e6cdc42a-6374-4722-b833-601738f72196" width="200"></br> 
+  TRC10/TRC20扫码支付 
+</div> 
 </details>
+
 
 <div align="center">
   
@@ -45,7 +50,7 @@
  
 ✈️ **机场推荐** 🛩️
 
-【🎁5折优惠码：**AM科技**】[*【红杏加速器】**中转高速机场，最低5元222G,游戏道选（送小火箭下载）直接点击注册,先到先得！！！** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
+【🎁5折优惠码：**AM科技**】[*【红杏加速器】**中转高速机场，最低5元220G,游戏道选（送小火箭下载）直接点击注册,先到先得！！！** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
 
 【🎁8折优惠码：**AM888**】[*【极速云】**专线机场,（送小火箭下载）高性价比|全IEPL专线节点|高速无卡顿 直接点击注册** ](https://w1.lypyf.com/#/register?code=MCdAybnR)
 
@@ -54,13 +59,26 @@
 <div align="center">
 ✈️ **免费节点获取** 🛩️
   
-[*进入群发送关键字 订阅 获取*](https://t.me/AM_CLUBS)
+[*进入群发送关键字 订阅 获取*](https://t.me/am_clubs)
  </div> 
+
+🚀 **VPS推荐** 🚀
+
+【**1.99套餐系列(每月)**】[**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/275) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/276)
+
+【**19.90套餐系列(每年)**】[**点击购买（法兰克福）** ](https://www.raksmart.com/cps/277) ✨ [**点击购买（香港）** ](https://www.raksmart.com/cps/278) ✨ [**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/279)
+
+【**14.99套餐系列(每月)**】[**点击购买（香港）** ](https://www.raksmart.com/cps/280) ✨ [**点击购买（TY）** ](https://www.raksmart.com/cps/281)
+
+【**4.99套餐系列(每月)**】[**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/282) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/283)
+
+【**0.99套餐系列(每月)**】[**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/305) ✨ [**点击购买（美国 洛杉机）** ](https://www.raksmart.com/cps/306) ✨ [**点击购买（美国 硅谷）** ](https://www.raksmart.com/cps/284) ✨ [**点击购买（1G 独享带宽）** ](https://www.raksmart.com/cps/304)
  
 <br>
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/></div>
 <br>
+
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=ansoncloud8&show_icons=false&theme=Default" alt="logo" align="right" width="100%" />
 -->
